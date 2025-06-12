@@ -3,3 +3,10 @@ backup/
 __pycache__/
 test_data/clean_code/
 test.ipynb
+
+# tree-sitter配置文件
+tree-sitter-c/
+tree-sitter-cpp/
+tree-sitter-java/
+tree-sitter-javascript/
+tree-sitter-go/
